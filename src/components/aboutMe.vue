@@ -30,7 +30,7 @@ onBeforeUnmount(() => {
   <div class="relative bg-[#DBC4A7]">
     <div
       @click="mePicShow=true"
-      class="w-[90%] aspect-square ml-2 bg-cover bg-center rounded-full cursor-pointer after:content-[''] after:block after:w-[100%] after:aspect-square after:rounded-full after:border after:border-black after:translate-x-2"
+      class="w-[90%] aspect-square mx-auto bg-cover bg-center rounded-full cursor-pointer after:content-[''] after:block after:w-[100%] after:aspect-square after:rounded-full after:border after:border-black after:translate-x-2"
       :style="{ 'background-image': `url(${me})` }"
     ></div>
     <div class="p-3">
