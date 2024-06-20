@@ -21,7 +21,7 @@ window.addEventListener("resize", handleWindowResize);
 </script>
 
 <template>
-  <div>
+  <div class="bg-[#DBC4A7]">
     <div
       :class="['max-w-[1240px]  mx-auto min-h-dvh   bg-[#DBC4A7] pt-[10px] pb-[10px]',{
         'flex  pr-[10px]':device=='pc'
