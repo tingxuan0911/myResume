@@ -17,13 +17,13 @@ const device = inject("device");
               <div>VueJS</div>
               <div
                 class="text-sm border border-t-[#735643]"
-              >Vue3、Vue2、Vue Router、Vue-Cil、Vuex、Pinia、Node.js、Ajax、Linux、API串接、Postman</div>
+              >Vue3、Vue2、Vue Router、Vue-Cil、Vuex、Pinia、Node.js、Ajax、Linux、API串接</div>
             </div>
             <div class="w-[60%] rounded bg-[#E4E2E2] text-center hover:shadow-inner hover:shadow-zinc-400 px-2">
-              <div>套件</div>
+              <div>套件 & 工具</div>
               <div
                 class="text-sm border border-t-[#735643]"
-              >Tailwind、Bootstrap、Element Plus、PrimeVue、i18n</div>
+              >Tailwind、Bootstrap、Element Plus、PrimeVue、i18n、Postman</div>
             </div>
             <div class="w-[38%] rounded bg-[#E4E2E2] text-center hover:shadow-inner hover:shadow-zinc-400 px-2">
               <div>版本控制</div>

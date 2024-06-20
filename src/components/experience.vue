@@ -7,7 +7,7 @@ const device = inject("device");
 <template>
 
       <div class="bg-[#fff] py-5 px-3 mt-2">
-          <div class="text-2xl font-bold mb-5">經驗</div>
+          <div class="text-2xl font-bold mb-5">工作經歷</div>
           <!-- 經驗一 -->
           <div class="flex">
             <div class="w-[25%]">
