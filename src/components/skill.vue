@@ -17,7 +17,7 @@ const device = inject("device");
               <div>VueJS</div>
               <div
                 class="text-sm border border-t-[#735643]"
-              >Vue3、Vue2、Vue Router、Vite、Vue-Cil、Vuex、Pinia、Node.js、Axios、Linux、API串接</div>
+              >Vue3、Vue2、Vue Router、Vite、Vue-Cil、Vuex、Pinia、Node.js、Axaj、Linux</div>
             </div>
             <div class="w-[60%] rounded bg-[#E4E2E2] text-center hover:shadow-inner hover:shadow-zinc-400 px-2">
               <div>套件 & 工具</div>
